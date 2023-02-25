@@ -19,18 +19,18 @@ To opt out of sending any Firefox telemetry information:
 
 ALL SETTINGS IN ABOUT:CONFIG
 
-Step 1: make fonts like chrome
-gfx.font_rendering.cleartype_params.enhanced_contrast 100
-gfx.font_rendering.cleartype_params.pixel_structure 0
-gfx.font_rendering.cleartype_params.rendering_mode 5
+    Step 1: make fonts like chrome
+    gfx.font_rendering.cleartype_params.enhanced_contrast 100
+    gfx.font_rendering.cleartype_params.pixel_structure 0
+    gfx.font_rendering.cleartype_params.rendering_mode 5
 
-Step 2: disable warning 'you are in full-screen'
-full-screen-api.warning.timeout 0
-full-screen-api.warning.delay -1
+    Step 2: disable warning 'you are in full-screen'
+    full-screen-api.warning.timeout 0
+    full-screen-api.warning.delay -1
 
-Step 3: disable the fade to black animation when going fullscreen on a video in firefox?
-full-screen-api.transition-duration.enter 0 0
-full-screen-api.transition-duration.leave 0 0
+    Step 3: disable the fade to black animation when going fullscreen on a video in firefox?
+    full-screen-api.transition-duration.enter 0 0
+    full-screen-api.transition-duration.leave 0 0
 
-Step 4: Make scroll faster
-mousewheel.min_line_scroll_amount 25 (or what you like)
+    Step 4: Make scroll faster
+    mousewheel.min_line_scroll_amount 25 (or what you like)
