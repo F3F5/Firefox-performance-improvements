@@ -34,3 +34,12 @@ ALL SETTINGS IN ABOUT:CONFIG
 
     Step 4: Make scroll faster
     mousewheel.min_line_scroll_amount 25 (or what you like)
+    
+    Step 5: 
+    By default, Firefox is configured to automatically check spelling. You can disable this in the Settings window :
+
+    Click the Fx89menuButton button and select Settings.
+    In the Main panel, go to the Languages section.
+    Uncheck Check spelling when typing.
+    ![2017-11-02-14-56-14-802543](https://user-images.githubusercontent.com/108226177/221352602-83334e48-86c7-42d4-a06a-1af11ef3e306.png)
+
