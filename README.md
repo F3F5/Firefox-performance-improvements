@@ -12,7 +12,7 @@ You can opt out of sending any Firefox telemetry information at any time. If you
 
 To opt out of sending any Firefox telemetry information:
 
-    Click the menu button Fx89menuButton and select Settings.
+    Click the menu button and select Settings.
     Select the Privacy & Security panel.
     Scroll to the Firefox Data Collection and Use section.
     Deselect the Allow Firefox to send technical and interaction data to Mozilla checkbox. 
